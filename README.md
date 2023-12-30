@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @edgarchacinweb
+### 👋 Hi, I’m @edgarchacinweb
 - 👀 I’m interested in fullstack web development.
 - 🚀 I'm actually studying frontend web development with HTML, CSS, Javascript and Astro framework.
 
